@@ -1,0 +1,30 @@
+/* CSS Document */
+p.btn{
+	width: 100%;
+	margin: 0px;
+}
+
+a.btn {
+	padding: 5px 15px;
+	display: inline-block;
+	background-color: #000;
+	color: #fff;
+}
+
+a.btn:hover {
+	background-color: #556AAF;
+	color: #000;
+}
+
+div.timer {
+	font-size: 14pt;
+	text-align: center;
+}
+
+dt::before {
+	background: none!important;
+}
+
+input.entry-desc{
+	width: 100%!important;
+}
